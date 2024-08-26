@@ -75,7 +75,7 @@ section#img01 {
     background-position: right center;
 }
 section#img02 {
-    background-image: url('imagens/background002.jpg')
+    background-image: url('imagens/background002.jpg');
     text-shadow: 0px 0px 5px rgba(0, 0, 0, 0.59);
 }
 footer {
